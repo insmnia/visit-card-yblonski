@@ -1,3 +1,3 @@
 # web-platform-xwhbvs
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-xwhbvs)
+[View on StackBlitz ⚡️](https://web-platform-xwhbvs.stackblitz.io)
