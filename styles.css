@@ -350,7 +350,7 @@ body{
     margin-right: 5%;
     margin-left: 4%;
     margin-bottom: 1%;
-    background-color: #dddddd;
+    background-color: rgba(243, 242, 242, 0.753);
     border-color: #564256;
     color:#564256;
 }
